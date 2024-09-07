@@ -1,1 +1,2 @@
-# A next generation news company.
+# HSX 
+All rights are reserved.
